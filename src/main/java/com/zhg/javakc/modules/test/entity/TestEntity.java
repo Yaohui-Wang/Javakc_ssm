@@ -2,7 +2,6 @@ package com.zhg.javakc.modules.test.entity;
 
 import com.zhg.javakc.base.entity.BaseEntity;
 import java.util.Date;
-
 /**
  * @Author Mr.Wang
  * @Date 2019/09/27
